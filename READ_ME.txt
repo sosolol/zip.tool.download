@@ -1,5 +1,5 @@
 This is a private project made by z.es (https://discord.com/users/728711900841377832), read below on how to run.
-	(The source code should automatically update when Zip-MultiTool.exe is ran)
+	(The source code should automatically update when ziptools.exe is ran)
 
 If the tool isn't running:
 
@@ -9,18 +9,9 @@ If the tool isn't running:
 
    4). Run "Install-Packages.cmd" as a admin.
 
-   5). If this still ins't working, install the packages manually (listed below in "Code")
-       ). if it still doesn't work thats a skill issue.
+   5). If this still ins't working, skill issue.
 
 
 How to set-up cookies / uid:
-
-   1). Cookies and UID are editable inside of "zip-systems/src/Config.json"
-
-   2). This file is already set up to use ZipAudioBot and verify to Corrupted.
-
-
-
-Code: 
-
-npm i gradient-string noblox.js node-fetch@2.6.12 node-bash-title request fs-extra axios cheerio soundcloud-downloader fluent-ffmpeg @ffmpeg-installer/ffmpeg discord-rpc
+   1). This file is already set up to use ZipAudioBot and verify to Corrupted.
+   2). Cookies and the uid are changed using the "Settings" option.
